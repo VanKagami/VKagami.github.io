@@ -1,0 +1,1 @@
+console.log('Hai, ini adalah perubahan dari $Author');
